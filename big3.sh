@@ -14,4 +14,3 @@ then
 else
     echo $num3
 fi
-sd
